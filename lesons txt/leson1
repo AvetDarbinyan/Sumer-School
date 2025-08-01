@@ -1,0 +1,80 @@
+power User:	
+	-Computer / HW
+	-Opereating System /SW
+	-Administration : user ,apps	
+	
+	DE.
+		-User admin	
+			-us  
+	App store
+
+		categories :educational ,devace Managery
+
+
+
+
+
+GNU/linux = the most widespread/upluar system /
+GNU/Hurd =
+
+	-Distributive of Gnu OS 
+		Readhat fedora OS 		Gnome 	RPM	
+			-suse OS   		KDE	DEB
+	
+	-Conoical Ubuntu OS XFEC			init 
+			comunity kali OS
+
+		-linuxfromScratch.org LFS
+			bagrevand OS
+
+		-GNU:GNUX/NIX
+		-Arch		pacman 
+ 
+Google Android/linux
+	Android
+Apple IOS/Mach
+	MacOSX/darvin
+
+MS  Windows...
+
+IBM OS/Unix - GNU
+oracle GNU/Solaris/Unix - GNU
+ 
+
+ compputer oorganazaion
+	-CPU GPU
+	-Storage devise:operative storeg---> RAM,  persisent storeg ---->  SSD/HDD:
+	
+
+	-input/output devaise ---> keybord/mouse/displey/camera/micraphone/speker/touchpad/
+		-machine-machine interaction:
+			-NIC:ethernet cable socet / Wifi
+				Masseage(Addres, content)
+				Adres : MAC-Addres (fiery my message)
+			-USB type-c Usb laptop - Android phone
+			-blutooth  
+			-NFC/ RF
+			--------------------
+				WAN - internet protokol = internet
+
+Softwer Organazaion:
+	App store-App1.. Appi(debian / apt...)
+	----------------------------------
+	user - log in (usrname, password) > Desktop 
+		device Manager (volume mic/speker)
+				(displey resolution)
+				(printer configuration)
+		
+
+		standart set of apps: Brauser , e-Mail
+		-----------------------------------------
+
+	OS :kernel Devase Drivers
+		-CPU driver = proces meneger 
+		-GPU driver = memory manager 
+		-i/O driver = dvace driver
+ -----------------------------------------------------------
+ 
+ 
+
+
